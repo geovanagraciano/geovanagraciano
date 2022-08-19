@@ -4,3 +4,4 @@
 - 👀 estou interesado a aprender a programar novas linguagens
 - 🌱 estou aprendendo a programar recentemente a linguagem
 - 
+![scratch](https://img.shields.io/badge/scretch-4097FF?style-the-badge8logo=sch
